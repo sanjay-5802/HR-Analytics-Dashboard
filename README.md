@@ -51,7 +51,7 @@ This project demonstrates data visualization, business intelligence, and HR anal
 - Track experience-based attrition trends.
 
 ## 📷 Dashboard Preview
-Example:
+Example: https://github.com/sanjay-5802/HR-Analytics-Dashboard/blob/main/dashboard_snap.png
 
 ## 📌 Skills Demonstrated
 - Data Cleaning
